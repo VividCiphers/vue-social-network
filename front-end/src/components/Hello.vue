@@ -11,8 +11,4 @@ export default {
 
 <style>
 
-  p {
-    color: red;
-  }
-
 </style>
