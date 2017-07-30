@@ -1,6 +1,6 @@
 <template>
-  <div class="hello">
-    <p>Place Holder</p>
+  <div>
+    <p>This is Header</p>
   </div>
 </template>
 
@@ -9,10 +9,10 @@ export default {
 };
 </script>
 
-<style>
+<style scoped>
 
   p {
-    color: red;
+    color: blue;
   }
 
 </style>
